@@ -1,0 +1,15 @@
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\bin\Debug\asd.exe.config
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\bin\Debug\asd.exe
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\bin\Debug\asd.pdb
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd.csprojAssemblyReference.cache
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\MainWindow.g.cs
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\App.g.cs
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd_MarkupCompile.cache
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd_MarkupCompile.lref
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\MainWindow.baml
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd.g.resources
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd.Properties.Resources.resources
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd.csproj.GenerateResource.cache
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd.csproj.CoreCompileInputs.cache
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd.exe
+C:\Users\cmora\Desktop\Develop\Practices\asd\asd\obj\Debug\asd.pdb
